@@ -1,6 +1,6 @@
 ---
 title: "有良心的好咖啡"
-subtitle: Support sustainable farming while enjoying a cup
+subtitle: 一边喝茶一边支持可持续农业
 image: /img/home-jumbotron.jpg
 blurb:
     heading: 为什么选择卡尔迪？
@@ -10,8 +10,7 @@ intro:
     text: "卡尔迪是咖啡爱好者的终极去处，他们想了解自己的java起源并支持种植它的农民。我们认真对待咖啡生产、烘焙和酿造，我们很高兴将这些知识传授给任何人。"
 products:
     - image: img/illustrations-coffee.svg
-      text: "
-我们销售直接来自独立农民和农场合作社的生咖啡豆和烤咖啡豆。我们很自豪地提供各种各样的咖啡豆，这些咖啡豆都是在精心保护环境和当地社区的情况下种植的。请查看我们的帖子或直接与我们联系以了解当前可用性。"
+      text: "我们销售直接来自独立农民和农场合作社的生咖啡豆和烤咖啡豆。我们很自豪地提供各种各样的咖啡豆，这些咖啡豆都是在精心保护环境和当地社区的情况下种植的。请查看我们的帖子或直接与我们联系以了解当前可用性。"
     - image: /img/illustrations-coffee-gear.svg
       text: "我们为每一种口味和体验水平提供精心挑选的小规模酿造设备和工具。无论你是烤自己的豆子还是刚买了第一台法式压榨机，你都会在我们的店里找到一个可以爱上的小玩意。"
 values:
