@@ -1,21 +1,20 @@
 ---
-title: "有良心的好咖啡"
+title: "Great coffee with a conscience"
 subtitle: Support sustainable farming while enjoying a cup
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: 为什么选择卡尔迪？
-    text: "卡尔迪咖啡店是为所有相信好咖啡不应该只是味道好，它也应该做得好的人准备的。我们所有的豆子都直接来自小型可持续农民，并确保部分利润再投资于他们的社区。"
+    heading: Why Kaldi?
+    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
 intro:
-    heading: "我们提供"
-    text: "卡尔迪是咖啡爱好者的终极去处，他们想了解自己的java起源并支持种植它的农民。我们认真对待咖啡生产、烘焙和酿造，我们很高兴将这些知识传授给任何人。"
+    heading: "What we offer"
+    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
 products:
     - image: img/illustrations-coffee.svg
-      text: "
-我们销售直接来自独立农民和农场合作社的生咖啡豆和烤咖啡豆。我们很自豪地提供各种各样的咖啡豆，这些咖啡豆都是在精心保护环境和当地社区的情况下种植的。请查看我们的帖子或直接与我们联系以了解当前可用性。"
+      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
     - image: /img/illustrations-coffee-gear.svg
-      text: "我们为每一种口味和体验水平提供精心挑选的小规模酿造设备和工具。无论你是烤自己的豆子还是刚买了第一台法式压榨机，你都会在我们的店里找到一个可以爱上的小玩意。"
+      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
-    heading: 价值观
-    text: 咖啡是人类文化中令人惊叹的一部分，但它也有黑暗的一面——殖民主义和对自然资源和人类生命的盲目滥用。我们希望扭转这种局面，让咖啡行业回归到令人兴奋、赋予力量和团结的性质。
+    heading: Our values
+    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
 ---
 
